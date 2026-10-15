@@ -68,6 +68,54 @@ From brainstorming and architecture to development, deployment, and scaling.
 
 ---
 
+---
+
+## 🚀 Services & Solutions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development
+- Full-Stack Web Development
+- Frontend & Backend Engineering
+- REST APIs & AI Integrations
+- Scalable Application Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 SEO & Growth
+- On-Page SEO Optimization
+- Technical SEO & Indexing
+- Website Performance Optimization
+- Search Visibility Improvements
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Deployment & Infrastructure
+- AWS & Docker Deployment
+- Production Setup & Configuration
+- CI/CD & Release Workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Ongoing Support
+- Bug Fixes & Troubleshooting
+- Website Maintenance
+- Feature Enhancements
+- Continuous Improvements
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔄 My Development Workflow
 
 <p align="center">
@@ -84,10 +132,12 @@ I enjoy owning the complete journey — not just writing code, but helping turn 
 
 ## 🤝 Open to Opportunities
 
-- 💼 Freelance projects and contract development
-- 🚀 Startup ideas and long-term tech partnerships
-- 🧑‍💻 Open-source contributions and developer collaborations
-- 💡 Innovative products that need a technical partner
+- 💼 **Freelancing** — Web development, SEO, and technical solutions
+- 🚀 **Tech Partnerships** — Co-building products and exploring startup ideas
+- 💡 **Idea to Production** — Turning concepts into scalable, real-world applications
+- 🛠️ **Development & Support** — Maintenance, optimization, and continuous improvements
+
+
 ## 📬 Let's Connect
 
 <p align="center">
