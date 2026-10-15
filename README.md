@@ -88,20 +88,24 @@ I enjoy owning the complete journey — not just writing code, but helping turn 
 - 🚀 Startup ideas and long-term tech partnerships
 - 🧑‍💻 Open-source contributions and developer collaborations
 - 💡 Innovative products that need a technical partner
-
 ## 📬 Let's Connect
 
-<p>
-<a href="mailto:shivasaggapu96@gmail.com">
-<img src="https://img.shields.io/badge/Email-shivasaggapu96%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shiva"/>
-</a>
-<a href="https://github.com/shivashankerprasad">
-<img src="https://img.shields.io/badge/GitHub-shivashankerprasad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
+<p align="center">
+  <a href="mailto:shivasaggapu96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiva-shanker-prasad">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shivashankerprasad">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-**Have an idea? Need a developer? Looking for a tech partner?**
+<p align="center">
+  💼 Open to Freelancing &nbsp; • &nbsp; 🤝 Tech Partnerships &nbsp; • &nbsp; 🚀 Ideas to Production
+</p>
 
-### Let's turn your idea into production. 🚀
-
-<sub>Build with purpose · Collaborate with passion · Ship with confidence</sub>
+<p align="center">
+  <b>Have an idea? Let's build it together!</b>
+</p>
